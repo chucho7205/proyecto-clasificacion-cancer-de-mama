@@ -1,0 +1,14 @@
+#datos procesados
+data/processed
+
+#modelos procesado ignorados *
+*.pkl
+
+#archivos jupytes
+.ipynb/checkpoints
+
+#entornos virtuales
+.venv
+
+#archivos temporales
+__pycache__/
